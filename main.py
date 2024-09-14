@@ -1,5 +1,4 @@
 from http.server import BaseHTTPRequestHandler, HTTPServer
-import time
 
 
 hostName = "localhost" # Адрес для доступа по сети
